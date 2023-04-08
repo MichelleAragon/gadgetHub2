@@ -12,3 +12,21 @@
 .form-btn {
     color: aliceblue;
 }
+
+.imgLogoWhatsapp {
+    height: 60px;
+    width: 60px;
+    border-radius: 30%;
+    box-shadow: 1px 1px 1px 1px #f54895;
+}
+
+.asideWhatsapp {
+    height: 100px;
+    width: 100vw;
+}
+
+.bottonWhatsapp {
+    position: fixed;
+    right: 4%;
+    bottom: 10%;
+}
